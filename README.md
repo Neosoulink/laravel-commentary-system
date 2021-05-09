@@ -1,1 +1,1 @@
-### CommentsSystem powered by Laravel
+### Comments system powered by Laravel
